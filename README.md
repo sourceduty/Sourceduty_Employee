@@ -11,7 +11,7 @@ In addition to supporting internal operations, this custom GPT plays a crucial r
 #
 ### Working for Sourceduty
 
-Get started on working with the Sourceduty assets.
+Get started on working on Sourceduty assets.
 
 Here are a few options:
 
