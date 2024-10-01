@@ -11,6 +11,21 @@ In addition to supporting internal operations, this custom GPT plays a crucial r
 #
 ### Working for Sourceduty
 
+Get started with a task for Sourceduty.
+
+Here are a few options:
+
+1. Content Generation: Blog posts, fan art descriptions, technical documentation.
+2. Community Engagement: Managing social media interactions, handling queries, curating community content.
+3. 3D Model Optimization: Quality checks on digital assets, identifying improvements.
+4. Innovation and Trend Tracking: Exploring emerging trends in AI, 3D modeling, and related fields.
+5. Administrative Support: File management, routine communication.
+6. Initial Coding Assistance: Drafting simple scripts or automating basic tasks.
+7. Creative Ideation: Brainstorming ideas for digital art, interactive experiences, or new products.
+8. Digital Asset Management: Organizing and maintaining assets in the company’s library.
+9. Market Research: Gathering insights on competitors, technologies, or consumer trends.
+10. Documentation Support: Helping with process documentation, user manuals, or internal guidelines.
+
 Get started working on Sourceduty assets.
 
 Here are a few options:
