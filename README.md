@@ -11,7 +11,7 @@ In addition to supporting internal operations, this custom GPT plays a crucial r
 #
 ### Working for Sourceduty
 
-Get started with a task for Sourceduty.
+#### Get started with a task for Sourceduty.
 
 Here are a few options:
 
@@ -26,7 +26,7 @@ Here are a few options:
 9. Market Research: Gathering insights on competitors, technologies, or consumer trends.
 10. Documentation Support: Helping with process documentation, user manuals, or internal guidelines.
 
-Get started working on Sourceduty assets.
+#### Get started working on Sourceduty assets.
 
 Here are a few options:
 
