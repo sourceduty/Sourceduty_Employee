@@ -50,7 +50,7 @@ Here are a few options:
 #
 ### Related Links
 
-[ChtGPT](https://github.com/sourceduty/ChatGPT)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 <br>
