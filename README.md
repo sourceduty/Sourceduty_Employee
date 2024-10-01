@@ -59,6 +59,10 @@ Here are a few options:
 [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 <br>
 [Sourceduty Explorer](https://github.com/sourceduty/Sourceduty_Explorer)
+<br>
+[Automated Business](https://github.com/sourceduty/Automated_Business)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
